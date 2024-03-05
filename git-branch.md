@@ -1,12 +1,6 @@
-# Git Branch
-El comando git branch lista las ramas
+# Git Pull
+git pull es un comando de Git utilizado para actualizar la versión local de un repositorio desde otro remoto.
 ````bash
-git branch
+git pull 
 ````
-Para crear una nueva rama
-````bash
-git branch feature-nuevarama
 ````
-Para borrar una rama
-````bash
-git branch -d feature-nuevaram
